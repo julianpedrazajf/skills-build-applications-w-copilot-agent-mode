@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+# Add codespace Django REST API endpoint suffix
+CODESPACE_URL = 'https://obscure-space-guacamole-76xpx6v6xw4cvq-8000.app.github.dev/'
 
 # Application definition
 
